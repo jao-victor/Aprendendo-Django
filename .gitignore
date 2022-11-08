@@ -1,2 +1,3 @@
 django/
 login2/.env
+__init__.py
