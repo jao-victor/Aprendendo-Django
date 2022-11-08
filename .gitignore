@@ -51,6 +51,7 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 
+.png
 # Translations.
 *.mo
 *.pot
